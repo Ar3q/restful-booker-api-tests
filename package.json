@@ -1,0 +1,17 @@
+{
+  "name": "restful-booker-api-tests",
+  "version": "1.0.0",
+  "description": "REST API tests with frisby.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ./"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "frisby": "^2.1.1",
+    "jest": "^24.7.1"
+  }
+}
